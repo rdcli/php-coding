@@ -1,0 +1,23 @@
+{
+    "name": "rdc/coding",
+    "type": "library",
+    "description": "RDC Character codec library.",
+    "keywords": [],
+    "homepage": "https://github.com/rdconseil/php-coding",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Romain Dorgueil",
+            "email": "romain@dorgueil.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "target-dir": "RDC/Coding",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
